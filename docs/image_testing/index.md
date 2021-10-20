@@ -6,9 +6,9 @@ nav_order: 8
 
 # Testing different image formats
 
-.ai
+.svg
 
-![ai](/images/testimage.ai)
+![svg](/images/testimage.svg)
 
 .gif
 
