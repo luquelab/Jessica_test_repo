@@ -24,12 +24,11 @@ Note: .ai files do not work, .gif is poor image quality.
 pdf 
 
 ![pdf1](/images/withfastwebview.pdf){:width="500px"}
-<object data="/images/withfastwebview.pdf" width="700px">
-    <embed src="/images/withfastwebview.pdf" >
-        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="/images/withfastwebview.pdf" >Download PDF</a>.</p>
-    </embed>
-</object>
 
+<embed src="/images/withfastwebview.pdf" type="application/pdf">
+
+<object data="/images/withfastwebview.pdf" type="application/pdf" width="100%">
+    </object>
 
 pdf with fast web view
 
