@@ -23,12 +23,12 @@ Note: .ai files do not work, .gif is poor image quality.
 
 pdf 
 
-![pdf1](/images/sabbatical_conceptual_figure_2021-10-15 copy.pdf){:width="500px"}
+![pdf1](/images/"sabbatical_conceptual_figure_2021-10-15 copy.pdf"){:width="500px"}
 
 
 pdf with fast web view
 
-![pdf2](/images/sabbatical_conceptual_figure_2021-10-15 copy 2.pdf){:width="500px"}
+![pdf2](/images/"sabbatical_conceptual_figure_2021-10-15 copy 2.pdf"){:width="500px"}
 
 
 
