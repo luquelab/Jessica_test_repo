@@ -26,7 +26,7 @@ pdf
 ![pdf1](/images/withfastwebview.pdf){:width="500px"}
 
 
-pdf with fast web view
+pdf with fast web view:
 
 <iframe src="https://github.com/luquelab/Jessica_test_repo/raw/gh-pages/docs/image_testing/images/withfastwebview.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   
