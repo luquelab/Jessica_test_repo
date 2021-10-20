@@ -25,16 +25,12 @@ pdf
 
 ![pdf1](/images/withfastwebview.pdf){:width="500px"}
 
+
+pdf with fast web view
+
 <iframe src="https://docs.google.com/gview?url=https://github.com/luquelab/Jessica_test_repo/blob/gh-pages/docs/image_testing/images/withfastwebview.pdf &embedded=true" style="width:100%; height:100%;" frameborder="0"></iframe>
   
 
-
-<embed src="/images/withfastwebview.pdf" type="application/pdf">
-
-<object data="/images/withfastwebview.pdf" type="application/pdf" width="100%">
-    </object>
-
-pdf with fast web view
 
 ![pdf2](/images/nofastweb.pdf){:width="500px"}
 
