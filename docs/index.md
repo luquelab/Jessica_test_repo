@@ -8,7 +8,7 @@ date: `r Sys.Date()`
 
 ## Home
 
-`rSys.Date()`
+`r Sys.Date()`
 
 This is your entry page on the public website associated with your project. State the goal of the project, status, collaborators, and any basic information.
 
