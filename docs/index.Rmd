@@ -8,7 +8,6 @@ date: `r Sys.Date()`
 
 ## Home
 
-`r Sys.Date()`
 
 Sys.Date()
 
