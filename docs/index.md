@@ -8,7 +8,7 @@ date: `r Sys.Date()`
 
 ## Home
 
-[test relative link](Jessica_test_repo/docs)
+[test relative link](Jessica_test_repo/docs/)
 
 Sys.Date()
 
