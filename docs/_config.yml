@@ -7,6 +7,8 @@ remote_theme: pmarsceill/just-the-docs
 ### Color scheme supports "light" (default) and "dark"
 color_scheme: light
 
+date_format: "%Y-%m-%d %H:%M"
+
 aux_links:
   "Jessica's Test Repo on GitHub":
     - "//github.com/luquelab/Jessica_test_repo/tree/gh-pages/docs"
