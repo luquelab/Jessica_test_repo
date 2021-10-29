@@ -8,6 +8,7 @@ date: `r Sys.Date()`
 
 ## Home
 
+This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }} {{ "now" | date: site.date_format }}
 
 
 Sys.Date()
