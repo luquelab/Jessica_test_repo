@@ -11,7 +11,6 @@ nav_order: 1
 This page was last updated at {{ "now" | date: site.date_format }}
 
 
-Sys.Date()
 
 This is your entry page on the public website associated with your project. State the goal of the project, status, collaborators, and any basic information.
 
